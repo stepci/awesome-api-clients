@@ -4,6 +4,8 @@ Alternatives to Postman and Insomnia ([why?](https://www.reddit.com/r/webdev/com
 
 Criteria: open-source, more than 200 stars and 2 contributors.
 
+If you wish to contribute: [start a pull request](https://github.com/stepci/awesome-api-clients/pulls)
+
 ## Web-Based
 
 - [Restfox](https://restfox.dev) ([repo](https://github.com/flawiddsouza/Restfox)) - Offline-first web HTTP client
