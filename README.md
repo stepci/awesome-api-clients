@@ -1,6 +1,6 @@
 # Awesome API Clients
 
-Alternatives to Postman and Insomnia ([why?](https://www.reddit.com/r/webdev/comments/16twfkr/kong_pulls_a_postman_causing_exodus_from_insomnia/)).
+Awesome Postman alternatives and Awesome Insomnia alternatives ([why?](https://www.reddit.com/r/webdev/comments/16twfkr/kong_pulls_a_postman_causing_exodus_from_insomnia/)).
 
 Criteria: open-source, more than 200 stars and 2 contributors.
 
