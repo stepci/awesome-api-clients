@@ -25,6 +25,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [ezy](https://www.getezy.dev) ([repo](https://github.com/getezy/ezy)) - GUI client for gRPC/gRPC-Web
 
 - [Milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench
+- [Insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a 100% local and privacy-focus open-source API client for testing GraphQL, REST, WebSockets, Server-sent events and gRPC in development/production.
 
 ## IDE
 
