@@ -25,9 +25,9 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 
 - [IntelliJ HTTP Client](https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html) - Create, edit, and execute HTTP requests directly in the IntelliJ IDEA
 - [VS Code REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) ([repo](https://github.com/Huachao/vscode-restclient)) - Send HTTP request and view the response in Visual Studio Code
-- [RESTClient (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - A debugger for RESTful web services
-- [restclient.el (emacs)](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
-- [verb (emacs)](https://github.com/federicotdn/verb) - Organize and send HTTP requests from Emacs
+- [RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - A Firefox debugger for RESTful web services
+- [restclient.el](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
+- [verb](https://github.com/federicotdn/verb) - Organize and send HTTP requests from Emacs
 
 ## CLI
 
@@ -35,7 +35,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [HTTPie](https://httpie.io/cli) ([repo](https://github.com/httpie/cli)) - HTTPie CLI: human-friendly HTTP client for the API era
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [HttpRepl (.NET)](https://github.com/dotnet/HttpRepl) - Lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported
+- [HttpRepl](https://github.com/dotnet/HttpRepl) - Lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported
 
 ## Automated Testing
 
