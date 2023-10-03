@@ -35,6 +35,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [HTTPie](https://httpie.io/cli) ([repo](https://github.com/httpie/cli)) - HTTPie CLI: human-friendly HTTP client for the API era
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+- [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie
 - [HttpRepl](https://github.com/dotnet/HttpRepl) - Lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported
 
 ## Automated Testing
