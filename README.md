@@ -37,6 +37,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie
 - [HttpRepl](https://github.com/dotnet/HttpRepl) - Lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported
+- [ain](https://github.com/jonaslu/ain) - A HTTP API client for the terminal, uses curl, wget or httpie to make the actual calls
 
 ## Automated Testing
 
