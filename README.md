@@ -53,6 +53,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [scenarigo](https://github.com/zoncoen/scenarigo) - An end-to-end scenario testing tool for HTTP/gRPC server
 - [Schemathesis](https://schemathesis.readthedocs.io/) ([repo](https://github.com/schemathesis/schemathesis)) - Specification-centric API testing tool for Open API and GraphQL-based applications
 - [Dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
+- [abao](https://github.com/cybertk/abao) - REST API automated testing tool based on RAML
 - [HttpRunner](https://httprunner.com/httprunner/) ([repo](https://github.com/httprunner/httprunner))
 - [k6](http://k6.io) ([repo](https://github.com/grafana/k6)) - A modern load testing tool, using Go and JavaScript
 - [Artillery](https://artillery.io) ([repo](https://github.com/artilleryio/artillery)) - Load testing at cloud-scale
