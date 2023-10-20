@@ -24,7 +24,6 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 
 ## IDE
 
-- [IntelliJ HTTP Client](https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html) - Create, edit, and execute HTTP requests directly in the IntelliJ IDEA
 - [VS Code REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) ([repo](https://github.com/Huachao/vscode-restclient)) - Send HTTP request and view the response in Visual Studio Code
 - [RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - A Firefox debugger for RESTful web services
 - [restclient.el](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
