@@ -40,6 +40,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [HttpRepl](https://github.com/dotnet/HttpRepl) - Lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported
 - [ain](https://github.com/jonaslu/ain) - A HTTP API client for the terminal, uses curl, wget or httpie to make the actual calls
 - [evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
+- [httpYac](https://httpyac.github.io/) ([repo](https://github.com/anweber/httpyac)) - Yet another REST client to send REST, SOAP, GraphQL and gRPC requests
 
 ## Automated Testing
 
