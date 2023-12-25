@@ -22,6 +22,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [ezy](https://www.getezy.dev) ([repo](https://github.com/getezy/ezy)) - GUI client for gRPC/gRPC-Web
 - [Milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench
 - [Insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a 100% local and privacy-focus open-source API client (based on Insomnia)
+- [Pororoca](https://pororoca.io) ([repo](https://github.com/alexandrehtrb/Pororoca)) - A HTTP inspection tool with support for HTTP/2 and HTTP/3, an alternative to Postman
 
 ## IDE
 
