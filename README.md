@@ -14,6 +14,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [RecipeUI](https://recipeui.com) ([repo](https://github.com/RecipeUI/RecipeUI)) - RecipeUI is the Postman alternative with type safety built in
 - [gRPC UI](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [Yaade](https://docs.yaade.io) ([repo](https://github.com/EsperoTech/yaade)) - Yaade is an open-source, self-hosted, collaborative API development environment
+- [Prestige](https://prestige.dev) ([repo](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
 
 ## Desktop
 
@@ -58,5 +59,5 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [abao](https://github.com/cybertk/abao) - REST API automated testing tool based on RAML
 - [HttpRunner](https://httprunner.com/httprunner/) ([repo](https://github.com/httprunner/httprunner))
-- [k6](http://k6.io) ([repo](https://github.com/grafana/k6)) - A modern load testing tool, using Go and JavaScript
+- [k6](https://k6.io) ([repo](https://github.com/grafana/k6)) - A modern load testing tool, using Go and JavaScript
 - [Artillery](https://artillery.io) ([repo](https://github.com/artilleryio/artillery)) - Load testing at cloud-scale
