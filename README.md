@@ -44,6 +44,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [ain](https://github.com/jonaslu/ain) - A HTTP API client for the terminal, uses curl, wget or httpie to make the actual calls
 - [evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [httpYac](https://httpyac.github.io/) ([repo](https://github.com/anweber/httpyac)) - Yet another REST client to send REST, SOAP, GraphQL and gRPC requests
+- [ATAC](https://atac.julien-cpsn.com/) ([repo](https://github.com/Julien-cpsn/ATAC)) - A simple postman like API client for terminal
 
 ## Automated Testing
 
