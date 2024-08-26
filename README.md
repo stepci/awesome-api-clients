@@ -33,6 +33,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - A Firefox debugger for RESTful web services
 - [restclient.el](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
 - [verb](https://github.com/federicotdn/verb) - Organize and send HTTP requests from Emacs
+- [rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
 
 ## CLI
 
