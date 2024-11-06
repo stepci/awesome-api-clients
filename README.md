@@ -18,6 +18,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 
 ## Desktop
 
+- [RestApia](https://restapia.app) - Developer-friendly, code-focused API client that makes testing HTTP requests simple and intuitive
 - [Bruno](https://usebruno.com) ([repo](https://github.com/usebruno/bruno)) - Opensource IDE For Exploring and Testing APIs
 - [Yaak](https://yaak.app) ([repo](https://github.com/yaakapp/app)) - The most intuitive desktop API client
 - [API Dash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform API Client
