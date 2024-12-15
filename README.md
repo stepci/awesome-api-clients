@@ -27,6 +27,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Insomnium](https://github.com/ArchGPT/insomnium) - (unmaintained) Insomnium is a 100% local and privacy-focus open-source API client (based on Insomnia)
 - [Pororoca](https://pororoca.io) ([repo](https://github.com/alexandrehtrb/Pororoca)) - A HTTP inspection tool with support for HTTP/2 and HTTP/3, an alternative to Postman
 - [Nightingale REST Client](https://nightingale.rest/) ([repo](https://github.com/jenius-apps/nightingale-rest-api-client)) - A modern, open-source, resource-efficient REST API client for Windows
+- [RestFox](https://restfox.dev/) ([repo](https://github.com/flawiddsouza/Restfox)) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 
 ## IDE
 
