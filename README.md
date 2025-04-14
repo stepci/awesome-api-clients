@@ -54,7 +54,6 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [ATAC](https://atac.julien-cpsn.com/) ([repo](https://github.com/Julien-cpsn/ATAC)) - A simple postman like API client for terminal
 
 ## Automated Testing
-
 - [Step CI](https://stepci.com) ([repo](https://github.com/stepci/stepci)) - Open-source API Test Automation framework
 - [Hurl](https://hurl.dev) ([repo](https://github.com/Orange-OpenSource/hurl)) - Hurl, run and test HTTP requests with plain text.
 - [Karate](https://karatelabs.github.io/karate/) ([repo](https://github.com/karatelabs/karate)) - Test Automation Made Simple
@@ -69,3 +68,4 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [HttpRunner](https://httprunner.com/httprunner/) ([repo](https://github.com/httprunner/httprunner))
 - [k6](https://k6.io) ([repo](https://github.com/grafana/k6)) - A modern load testing tool, using Go and JavaScript
 - [Artillery](https://artillery.io) ([repo](https://github.com/artilleryio/artillery)) - Load testing at cloud-scale
+- [Apidog](https://apidog.com/) - Full-featured, modern API platform combining API design, documentation, debugging, mocking, and testing in one workspace. Ideal for teams and individuals looking for a free and polished Postman alternative.
