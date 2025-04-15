@@ -11,7 +11,6 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Restfox](https://restfox.dev) ([repo](https://github.com/flawiddsouza/Restfox)) - Offline-first web HTTP client
 - [Hoppscotch](https://hoppscotch.io) ([repo](https://github.com/hoppscotch/hoppscotch)) - Open source API development ecosystem
 - [Firecamp](https://firecamp.io) ([repo](https://github.com/firecamp-dev/firecamp)) - Open Source Postman Alternative inspired by VS Code DX
-- [RecipeUI](https://recipeui.com) ([repo](https://github.com/RecipeUI/RecipeUI)) - RecipeUI is the Postman alternative with type safety built in
 - [gRPC UI](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [Yaade](https://docs.yaade.io) ([repo](https://github.com/EsperoTech/yaade)) - Yaade is an open-source, self-hosted, collaborative API development environment
 - [Prestige](https://prestige.dev) ([repo](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
