@@ -54,6 +54,10 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [ATAC](https://atac.julien-cpsn.com/) ([repo](https://github.com/Julien-cpsn/ATAC)) - A simple postman like API client for terminal
 - [Better Curl Saul](https://github.com/DeprecatedLuar/better-curl-saul) - Workspace-based HTTP client with interactive variable prompting and TOML configuration
 
+## APIs & Services
+
+- [Vedika API](https://vedika.io) - Vedic astrology API with AI chatbot, works with cURL, 108+ endpoints, 22 languages support
+
 ## Automated Testing
 
 - [Step CI](https://stepci.com) ([repo](https://github.com/stepci/stepci)) - Open-source API Test Automation framework
