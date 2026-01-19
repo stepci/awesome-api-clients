@@ -29,6 +29,8 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Nightingale REST Client](https://nightingale.rest/) ([repo](https://github.com/jenius-apps/nightingale-rest-api-client)) - A modern, open-source, resource-efficient REST API client for Windows
 - [Requestly](https://requestly.com) ([repo](https://github.com/requestly/requestly)) - A desktop app with API Client, API Mocking & API Interception and Modification capabilities.
 - [Cartero](https://cartero.danirod.es/) ([repo](https://github.com/danirod/cartero)) - A native, lightweight, multiplatform and free HTTP client
+- [voiden](https://voiden.md) ([repo](https://github.com/VoidenHQ)) - Local, file-based, keyboard-first API client using executable Markdown, designed for version-controlled workflows (no sign up required)
+
 
 ## IDE
 
