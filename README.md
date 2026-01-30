@@ -15,6 +15,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Yaade](https://docs.yaade.io) ([repo](https://github.com/EsperoTech/yaade)) - Yaade is an open-source, self-hosted, collaborative API development environment
 - [Prestige](https://prestige.dev) ([repo](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
 - [Requestly](https://requestly.com) ([repo](https://github.com/requestly/requestly)) - A Browser extension with API Client, API Mocking & API Interception and Modification capabilities.
+- [Echolon](https://echolon.app) ([repo](https://github.com/echolon-app/echolon)) - Simple and Open Source Postman Alternative for Mac, Windows, Linux and the Web. 
 
 ## Desktop
 
@@ -30,6 +31,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Requestly](https://requestly.com) ([repo](https://github.com/requestly/requestly)) - A desktop app with API Client, API Mocking & API Interception and Modification capabilities.
 - [Cartero](https://cartero.danirod.es/) ([repo](https://github.com/danirod/cartero)) - A native, lightweight, multiplatform and free HTTP client
 - [Voiden](https://voiden.md) ([repo](https://github.com/VoidenHQ/voiden)) - Local, file-based, keyboard-first API client using executable Markdown, designed for version-controlled workflows (no sign up required)
+- [Echolon](https://echolon.app) ([repo](https://github.com/echolon-app/echolon)) - Simple and Open Source Postman Alternative for Mac, Windows, Linux and the Web.
 
 ## IDE
 
