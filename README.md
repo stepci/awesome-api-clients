@@ -15,6 +15,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Yaade](https://docs.yaade.io) ([repo](https://github.com/EsperoTech/yaade)) - Yaade is an open-source, self-hosted, collaborative API development environment
 - [Prestige](https://prestige.dev) ([repo](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
 - [Requestly](https://requestly.com) ([repo](https://github.com/requestly/requestly)) - A Browser extension with API Client, API Mocking & API Interception and Modification capabilities.
+- [Spiderhash](https://spiderhash.io/) - Webhook debugging and inspection tool for testing, replaying, and monitoring webhook events.
 
 ## Desktop
 
