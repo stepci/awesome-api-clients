@@ -14,6 +14,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [gRPC UI](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [Yaade](https://docs.yaade.io) ([repo](https://github.com/EsperoTech/yaade)) - Yaade is an open-source, self-hosted, collaborative API development environment
 - [Prestige](https://prestige.dev) ([repo](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
+- [ToolPipe](https://toolpipe.dev) ([repo](https://github.com/COSAI-Labs/toolpipe-mcp-server)) - 120+ developer utility APIs and MCP server with built-in API testing, JSON validation, regex testing, and more
 - [Requestly](https://requestly.com) ([repo](https://github.com/requestly/requestly)) - A Browser extension with API Client, API Mocking & API Interception and Modification capabilities.
 
 ## Desktop
@@ -27,6 +28,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Insomnium](https://github.com/ArchGPT/insomnium) - (unmaintained) Insomnium is a 100% local and privacy-focus open-source API client (based on Insomnia)
 - [Pororoca](https://pororoca.io) ([repo](https://github.com/alexandrehtrb/Pororoca)) - A HTTP inspection tool with support for HTTP/2 and HTTP/3, an alternative to Postman
 - [Nightingale REST Client](https://nightingale.rest/) ([repo](https://github.com/jenius-apps/nightingale-rest-api-client)) - A modern, open-source, resource-efficient REST API client for Windows
+- [ToolPipe](https://toolpipe.dev) ([repo](https://github.com/COSAI-Labs/toolpipe-mcp-server)) - 120+ developer utility APIs and MCP server with built-in API testing, JSON validation, regex testing, and more
 - [Requestly](https://requestly.com) ([repo](https://github.com/requestly/requestly)) - A desktop app with API Client, API Mocking & API Interception and Modification capabilities.
 - [Cartero](https://cartero.danirod.es/) ([repo](https://github.com/danirod/cartero)) - A native, lightweight, multiplatform and free HTTP client
 - [Voiden](https://voiden.md) ([repo](https://github.com/VoidenHQ/voiden)) - Local, file-based, keyboard-first API client using executable Markdown, designed for version-controlled workflows (no sign up required)
