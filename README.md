@@ -73,3 +73,4 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [HttpRunner](https://httprunner.com/httprunner/) ([repo](https://github.com/httprunner/httprunner))
 - [k6](https://k6.io) ([repo](https://github.com/grafana/k6)) - A modern load testing tool, using Go and JavaScript
 - [Artillery](https://artillery.io) ([repo](https://github.com/artilleryio/artillery)) - Load testing at cloud-scale
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
