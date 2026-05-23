@@ -31,6 +31,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Cartero](https://cartero.danirod.es/) ([repo](https://github.com/danirod/cartero)) - A native, lightweight, multiplatform and free HTTP client
 - [Voiden](https://voiden.md) ([repo](https://github.com/VoidenHQ/voiden)) - Local, file-based, keyboard-first API client using executable Markdown, designed for version-controlled workflows (no sign up required)
 - [EasyPostman](https://github.com/lakernote/EasyPostman) - An open-source API debugging and performance testing tool inspired by Postman and a simplified JMeter
+- [adOmnia](https://github.com/Andrea-Cavallo/adOmnia) - Built for developers who need more than a simple HTTP client, OpenSource.
 
 ## IDE
 
