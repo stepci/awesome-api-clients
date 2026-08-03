@@ -15,6 +15,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Yaade](https://docs.yaade.io) ([repo](https://github.com/EsperoTech/yaade)) - Yaade is an open-source, self-hosted, collaborative API development environment
 - Prestige ([repo](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
 - [Requestly](https://requestly.com) ([repo](https://github.com/requestly/requestly)) - A Browser extension with API Client, API Mocking & API Interception and Modification capabilities.
+- [Flexiberry](https://flexiberry.dev) ([repo](https://github.com/flexiberry/flexiberry)) - Developer-first HTTP client built for sequential API workflows
 
 ## Desktop
 
@@ -40,6 +41,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
 - [kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal REST-Client Interface for Neovim.
 - [resterm](https://github.com/unkn0wn-root/resterm) - Terminal REST/Graphql/gRPC client written in Go.
+- [Flexiberry](https://open-vsx.org/extension/flexiberry/vscode-berry-extension) ([repo](https://github.com/flexiberry/flexiberry)) - VS Code extension for running sequential API workflows
 
 ## CLI
 
@@ -56,6 +58,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [ATAC](https://atac.julien-cpsn.com/) ([repo](https://github.com/Julien-cpsn/ATAC)) - A simple postman like API client for terminal
 - [Better Curl Saul](https://github.com/DeprecatedLuar/better-curl-saul) - Workspace-based HTTP client with interactive variable prompting and TOML configuration
 - [Slumber](https://slumber.lucaspickering.me/) ([repo](https://github.com/LucasPickering/slumber)) - A terminal-based HTTP/REST client, with TUI and CLI usage mods
+- [Flexiberry CLI](https://www.npmjs.com/package/@flexiberry/cli) ([repo](https://github.com/flexiberry/flexiberry)) - Command-line interface for running sequential API workflows
 
 ## Automated Testing
 
@@ -73,3 +76,4 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [HttpRunner](https://httprunner.com/httprunner/) ([repo](https://github.com/httprunner/httprunner))
 - [k6](https://k6.io) ([repo](https://github.com/grafana/k6)) - A modern load testing tool, using Go and JavaScript
 - [Artillery](https://artillery.io) ([repo](https://github.com/artilleryio/artillery)) - Load testing at cloud-scale
+- [Flexiberry](https://flexiberry.dev) ([repo](https://github.com/flexiberry/flexiberry)) - Developer-first HTTP client built for sequential API workflows
