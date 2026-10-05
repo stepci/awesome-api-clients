@@ -57,6 +57,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Better Curl Saul](https://github.com/DeprecatedLuar/better-curl-saul) - Workspace-based HTTP client with interactive variable prompting and TOML configuration
 - [Slumber](https://slumber.lucaspickering.me/) ([repo](https://github.com/LucasPickering/slumber)) - A terminal-based HTTP/REST client, with TUI and CLI usage mods
 - [resto](https://github.com/abdfnx/resto) - Send pretty HTTP & API requests with TUI
+- [Noodle](https://noodlerest.dev/) ([repo](https://github.com/wilfredinni/noodle)) - A terminal REST client with YAML collections, scripting, tests, and TUI/CLI workflows.
 
 ## Automated Testing
 
