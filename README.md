@@ -74,3 +74,4 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [HttpRunner](https://httprunner.com/httprunner/) ([repo](https://github.com/httprunner/httprunner))
 - [k6](https://k6.io) ([repo](https://github.com/grafana/k6)) - A modern load testing tool, using Go and JavaScript
 - [Artillery](https://artillery.io) ([repo](https://github.com/artilleryio/artillery)) - Load testing at cloud-scale
+- [Keploy](https://keploy.io) ([repo](https://github.com/keploy/keploy)) - Open-source platform that records API traffic and replays it as tests with dependency mocks in isolated sandboxes
