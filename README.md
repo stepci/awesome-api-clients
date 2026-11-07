@@ -15,6 +15,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Yaade](https://docs.yaade.io) ([repo](https://github.com/EsperoTech/yaade)) - Yaade is an open-source, self-hosted, collaborative API development environment
 - Prestige ([repo](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
 - [Requestly](https://requestly.com) ([repo](https://github.com/requestly/requestly)) - A Browser extension with API Client, API Mocking & API Interception and Modification capabilities.
+- [KaijuConverter API Studio](https://kaijuconverter.com/api-docs) ([mcp](https://kaijuconverter.com/api/mcp)) - Web-based interactive API workbench and MCP client for inspecting, testing, and converting 201+ formats.
 
 ## Desktop
 
