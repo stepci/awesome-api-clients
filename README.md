@@ -62,7 +62,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 
 - [Step CI](https://stepci.com) ([repo](https://github.com/stepci/stepci)) - Open-source API Test Automation framework
 - [Hurl](https://hurl.dev) ([repo](https://github.com/Orange-OpenSource/hurl)) - Hurl, run and test HTTP requests with plain text.
-- [Karate](https://karatelabs.github.io/karate/) ([repo](https://github.com/karatelabs/karate)) - Test Automation Made Simple
+- [Karate](https://docs.karatelabs.io) ([repo](https://github.com/karatelabs/karate)) - Test Automation Made Simple
 - [Tavern](https://taverntesting.github.io) ([repo](https://github.com/taverntesting/tavern)) - Automated RESTful API testing
 - [Venom](https://github.com/ovh/venom) - Manage and run your integration tests with efficiency
 - [pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
@@ -71,6 +71,6 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Schemathesis](https://schemathesis.readthedocs.io/) ([repo](https://github.com/schemathesis/schemathesis)) - Specification-centric API testing tool for Open API and GraphQL-based applications
 - [Dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [abao](https://github.com/cybertk/abao) - REST API automated testing tool based on RAML
-- [HttpRunner](https://httprunner.com/httprunner/) ([repo](https://github.com/httprunner/httprunner))
+- [HttpRunner](https://httprunner.com) ([repo](https://github.com/httprunner/httprunner))
 - [k6](https://k6.io) ([repo](https://github.com/grafana/k6)) - A modern load testing tool, using Go and JavaScript
 - [Artillery](https://artillery.io) ([repo](https://github.com/artilleryio/artillery)) - Load testing at cloud-scale
